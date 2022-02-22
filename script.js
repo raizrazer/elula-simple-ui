@@ -4,4 +4,8 @@ window.onload = function() {
         $("body").toggleClass("dark-mode");
     })
 
+    $(".pointer").click((e) => {
+        alert("No implemented yet! Sorry, But the dark mode works.")
+    })
+
 }
